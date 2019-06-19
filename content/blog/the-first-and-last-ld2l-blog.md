@@ -1,7 +1,7 @@
 ---
 path: ld2l-blog
 date: 2019-06-19T22:51:52.994Z
-title: The First and Last LD2L Blog
+title: My First and Last LD2L Blog
 description: >-
   Covering the entire situation that has been happening to my LD2L Team, Spewpee
   Skweeteens 2: Elewic Boogawoo.
