@@ -11,24 +11,28 @@ I have to say that this entire season of LD2L has been an entire headache and a 
 
 Starting off with the season, I managed to draft a great lineup of players:
 
-1. Roar
-2. Venuz
-3. Flocka
-4. TrySoft
-5. Looter
+Roar  
+Venuz  
+Flocka  
+TrySoft  
+Looter
 
 Going into LD2L with this team, I felt pretty confident since I have pretty good synergy with Roar, and Venuz and TrySoft seem to play with each other all the time.  We had experience playing with each other and the only new person who I didn’t know in this team was Looter, who happens to be a pretty solid player and a great pickup for a fourth/fifth pick in the draft.
 
 However, quickly after that’s when shit started to hit the fan.
 
+---
+
 ## Problem Uno
 ### Scheduling Woes
+
 Going into this season I actually wanted to try hard and play seriously with a main focus on winning.  I personally find the best experience in Dota is having a team who are all on the same page, following calls, and doing everything in their power to win, so with that in mind I actually wanted to get at least 2 scrims in a week before each official game.
 
 Unfortunately, it seems like our entire team’s schedule doesn’t align at all.  Between everyone dealing with real life stuff, TrySoft having an inconsistent schedule with work, and Venuz living in China or some shit.  That’s fine, we won’t be able to go super try hard, but as long as people show up on game day and play to win.
 
 For this reason alone though, I highly suggest LD2L have people list their weekly schedules or availability, so future captains can draft players that can actually play together sometime throughout the week.
 
+---
 ## Problem Dos
 ### The Venuz Arc
 All the issues surrounding Venuz was incredibly disappointing.  My second picked player, our team’s position 1, is literally incapable of playing Dota 2 on the weekends.
@@ -43,6 +47,7 @@ Fortunately for our team, we were able to find a replacement pretty quickly.  Pi
 
 Looking back at the whole Venuz problem, it was probably for the better to kick him.  I think I made the mistake of not kicking him sooner, even with his internet issues he had Flocka on his dodge list and the egos on the two of them could have made games harder and more tilting than they should be.
 
+---
 ## Problem Tres
 ###  The captain who cried disband
 
@@ -73,6 +78,7 @@ Roar owned in midlane, Flocka’s tilting was kept to a minimum even though he h
 Six weeks into the league, including scrim weeks, we finally got to play out our second BO2, and we killed it.
 
 Hell yeah!
+
 
 ## Going Forward
 I just wanted to make this blog to explain the situation that has been surrounding our team.
