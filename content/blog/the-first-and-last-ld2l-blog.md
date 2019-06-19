@@ -41,7 +41,9 @@ It seemed like he had internet problems ever since the Battlepass dropped.  I ha
 
 Hoping that he would eventually get this sorted out, I gave the boi around three weeks to see if it will get fixed, but it never seemed to work out.
 
-Along with this issue, and various real life stuff coming up for my players.  It seemed like we needed a standin to two standins every week,.  Having to forfeit three weeks straight, it was really demotivating and draining to the point where I was barely caring about the league at all.
+Along with this issue, and various real life stuff coming up for my players.  It seemed like we needed a standin to two standins every week.  Having to forfeit three weeks straight, it was really demotivating and draining to the point where I was barely caring about the league at all.
+
+In the end, we had to part ways with Venuz kicking him from the team and finding a more stable player who was actually able to play.
 
 Fortunately for our team, we were able to find a replacement pretty quickly.  Picking up Atifex and having a few players switch up their roles, and managing to get Roar into a stable role where he can shine.
 
