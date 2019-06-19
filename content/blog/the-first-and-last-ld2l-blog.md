@@ -81,7 +81,7 @@ Six weeks into the league, including scrim weeks, we finally got to play out our
 
 Hell yeah!
 
-
+---
 ## Going Forward
 I just wanted to make this blog to explain the situation that has been surrounding our team.
 
