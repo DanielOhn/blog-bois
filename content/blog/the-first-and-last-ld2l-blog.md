@@ -26,7 +26,7 @@ However, quickly after that’s when shit started to hit the fan.
 ## Problem Uno
 ### Scheduling Woes
 
-Going into this season I actually wanted to try hard and play seriously with a main focus on winning.  I personally find the best experience in Dota is having a team who are all on the same page, following calls, and doing everything in their power to win, so with that in mind I actually wanted to get at least 2 scrims in a week before each official game.
+Going into this season I actually wanted to try hard and play seriously with a main focus on winning.  I personally find the best experience in Dota is having a team who are all on the same page, following calls, and doing everything in their power to win. With that in mind I actually wanted to get at least 2 scrims in a week before each official game.
 
 Unfortunately, it seems like our entire team’s schedule doesn’t align at all.  Between everyone dealing with real life stuff, TrySoft having an inconsistent schedule with work, and Venuz living in China or some shit.  That’s fine, we won’t be able to go super try hard, but as long as people show up on game day and play to win.
 
@@ -45,9 +45,9 @@ Hoping that he would eventually get this sorted out, I gave the boi around three
 
 Along with this issue, and various real life stuff coming up for my players.  It seemed like we needed a standin to two standins every week.  Having to forfeit three weeks straight, it was really demotivating and draining to the point where I was barely caring about the league at all.
 
-In the end, we had to part ways with Venuz kicking him from the team and finding a more stable player who was actually able to play.
+In the end, we had to part ways with Venuz kicking him from the team and finding a more stable player who was actually able to play during game time.
 
-Fortunately for our team, we were able to find a replacement pretty quickly.  Picking up Atifex and having a few players switch up their roles, and managing to get Roar into a stable role where he can shine.
+Fortunately for our team, we were able to find a replacement pretty quickly.  Picking up Atifex and having a few players switch up their roles, and putting Roar into a stable role where he can shine.
 
 Looking back at the whole Venuz problem, it was probably for the better to kick him.  I think I made the mistake of not kicking him sooner, even with his internet issues he had Flocka on his dodge list and the egos on the two of them could have made games harder and more tilting than they should be.
 
@@ -61,7 +61,7 @@ This was it, our new lineup.
 
 No more Venuz internet problems to hold us back.
 
- We manage to get four people in Dota, alright.  Just need Roar and Flocka to show up and we can play.
+ We manage to get four people in Dota, alright.  Just need Roar or Flocka to show up and we can play.
 
 Game time.  Still no Roar or Flocka…
 
@@ -69,7 +69,9 @@ At this point, I just felt done.  We got rid of our main issue, managed to get f
 
 I felt really bad.  I convinced Roar to sign up for this season, drafted these other players, and due to a various amount of bullshit we just couldn’t play.
 
-However, this was just a clear over exaggeration on my part, I just let the frustration get to me and I declared that we are disbanding.  I should have just waited or looked for a standin for the game, eventually both Roar and Flocka showed up.  Roar was stuck in traffic, and Flocka took a comfy, long nap before the game.  It happens, it’s all good.
+However, this was just a clear over exaggeration on my part, I just let the frustration get to me and I declared that we are disbanding.  I should have just waited or looked for a standin for the game, eventually both Roar and Flocka showed up.  Roar was stuck in traffic, and Flocka took a comfy, long nap before the game.  
+
+It happens, it’s all good.
 
 Before we played I had issues with the ld2l site, but I think it was purely user error from just wanting the game to start I didn’t properly swap out the roster since we let TrySoft go pack up and go on his trip.
 
