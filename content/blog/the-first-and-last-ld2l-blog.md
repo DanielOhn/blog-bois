@@ -35,6 +35,8 @@ For this reason alone though, I highly suggest LD2L have people list their weekl
 ---
 ## Problem Dos
 ### The Venuz Arc
+>"I will personally murder Venuz dont tempt me" - _Brionne_ 
+
 All the issues surrounding Venuz was incredibly disappointing.  My second picked player, our team’s position 1, is literally incapable of playing Dota 2 on the weekends.
 
 It seemed like he had internet problems ever since the Battlepass dropped.  I had a fair share of my own, with Dota 2 crashing every time we got to strategy phase time in game forcing me to restart it every time.  Making the entire situation even more frustrating than it should have been.
@@ -51,7 +53,7 @@ Looking back at the whole Venuz problem, it was probably for the better to kick 
 
 ---
 ## Problem Tres
-###  The captain who cried disband
+###  The Captain Who Cried Disband
 
 This one was entirely my fault.  Cryptic and I rescheduled our game on Week 4 to Scrim Week 2.  I asked my entire team a week ahead of time if they can make it to this game, and they all said yes.
 
@@ -83,6 +85,9 @@ Hell yeah!
 
 ---
 ## Going Forward
+
+>"the only time i listen to catsby is if i wanna lose the game" - _Brionne_
+
 I just wanted to make this blog to explain the situation that has been surrounding our team.
 
 I don’t blame anyone for the situation that happened with our team, I think it was just a series of unfortunate events. It sucks that it happened, but at least it’s behind us now.
