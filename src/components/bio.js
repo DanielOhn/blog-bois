@@ -34,7 +34,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who is an upcoming Web Dev.
+              Written by <strong>{author}</strong> who is a Freelance Web Developer.
             </p>
           </Container>
         )
