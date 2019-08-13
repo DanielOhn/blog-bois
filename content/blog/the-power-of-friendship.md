@@ -1,7 +1,7 @@
 ---
 path: The Power of Friendship
 date: 2019-08-13T17:46:59.191Z
-title: The Power of Friendship
+title: The Tower of Friendship
 description: >-
   LD2L Season 5 is over and Spewpee Skweeteens 2: Elewic Boogawoo came out
   victorious! My thoughts on the season and player reviews of my dream team.
