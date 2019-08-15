@@ -1,6 +1,24 @@
 a {
 	color: #1c3463;
 }
+
+.btn-list {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	padding-top: 35px;
+	text-decoration: none;
+}
+
+.resume-content p {
+	margin-bottom: -2.5px;
+}
+
+.resume-content h3  {
+	margin-top: 0.4375rem;
+	margin-bottom: 0.4375rem;
+}
+
 /*
 Colors
 346135

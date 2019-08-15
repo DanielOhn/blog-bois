@@ -28,7 +28,7 @@ class Blog extends React.Component {
                   }}
                 >
                   <Link
-                    style={{ boxShadow: `none` }}
+                    style={{ boxShadow: `none`}}
                     to={`blog${node.fields.slug}`}
                   >
                     {title}
@@ -45,7 +45,7 @@ class Blog extends React.Component {
           })}
         </div>
         <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
+          <Button marginTop="85px">Return</Button>
         </Link>
       </Layout>
     )

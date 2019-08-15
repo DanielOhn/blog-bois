@@ -7,11 +7,14 @@ import { rhythm, scale } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
+
     const rootPath = `${__PATH_PREFIX__}/`
     const blogPath = `${__PATH_PREFIX__}/blog/`
+    const projectPath = `${__PATH_PREFIX__}/projects/`
+    const resumePath = `${__PATH_PREFIX__}/resume/`
     let header
 
-    if (location.pathname === rootPath || location.pathname === blogPath) {
+    if (location.pathname === rootPath || location.pathname === blogPath || location.pathname === projectPath || location.pathname === resumePath) {
       header = (
         <h1
           style={{
