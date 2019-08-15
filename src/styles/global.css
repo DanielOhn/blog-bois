@@ -1,5 +1,6 @@
 a {
 	color: #1c3463;
+	box-shadow: none !important;
 }
 
 .btn-list {
