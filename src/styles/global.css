@@ -3,24 +3,34 @@ a {
 	box-shadow: none !important;
 }
 
-.btn-list {
+.list {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-start;
 	flex-direction: row;
-	padding-top: 35px;
 	text-decoration: none;
 }
 
-.resume-content p {
-	margin-bottom: -2.5px;
+h2, h3 {
+	padding: 0;
+	margin: 0;
 }
 
-.resume-content h3  {
-	margin-top: 0.4375rem;
-	margin-bottom: 0.4375rem;
+ul {
+	list-style: none;
 }
 
-/*
-Colors
-346135
-*/
+li {
+	margin: 0;
+}
+
+.header p, b, small, i {
+	margin: 0;
+}
+
+.list {
+	padding-top: 5%;
+}
+
+.blog {
+	padding-right: 15%;
+}

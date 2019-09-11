@@ -1,11 +1,8 @@
 import React from "react"
-import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import { rhythm } from "../utils/typography"
-import Button from "../components/button"
 
 
 class Projects extends React.Component {
@@ -18,35 +15,43 @@ class Projects extends React.Component {
 					keyword={[`projects`, `gatsby`, `javascript`, `react`]}
 				/>
 				<div>
-					<h3
-						style={{
-							marginBottom: rhythm(1 / 4),
+					<h2
+					style={{ 
+							marginBottom: rhythm(.5),
 						}}
 					>
-						<Link 
-							style={{ boxShadow: `none`}}
-							to={``}
-						>
-							Coming soon...
-						</Link>
-					</h3>
+					projects
+					</h2>
+					<Project 
+						site="https://poke-site.netlify.com/"
+						title="Poké App"
+						date="June 21, 2016"
+						desc="Web application that utilizes the PokeAPI to list out every pokémon and allows users to see their base stats."
+					/>
 				</div>
-				<Link to="/">
-					<Button marginTop="85px">Return</Button>
-				</Link>
 			</Layout>
 		)
 	}
 }
 
+const Project = ({site, title, date, desc}) => {
+	return (
+		<div>
+			<h3>
+			<a
+				target="noopener noreferrer"
+				href={site}
+			>
+				{title}
+			</a>
+			</h3>
+			<small>{date}</small>
+			<p style={{ marginBottom: rhythm(.25),}}>{desc}</p>
+		</div>
+		)
+}
+
+
 export default Projects
 
-// export const pageQuery = graphql`
-// 	query {
-// 		site {
-// 			siteMetadata {
-// 				title
-// 			}
-// 		}
-// 	}
-// `
+
