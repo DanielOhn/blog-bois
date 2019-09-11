@@ -17,7 +17,7 @@ function Bio() {
         return (
           <Container>
             <p>
-             freelance web developer, d&d enthusiast, and dota addict.
+             software engineer, d&d enthusiast, and dota addict.
             </p>
           </Container>
         )
