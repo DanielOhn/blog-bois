@@ -78,6 +78,7 @@ button {
 	border: none;
 	height: 36px;
 	width: 36px;
+	cursor: pointer;
 }
 
 svg {
