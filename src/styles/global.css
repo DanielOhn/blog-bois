@@ -103,7 +103,7 @@ body {
 	--textNormal: #25253a;
 	--textTitle: #25253a;
 	--textLink: #445c82;
-	--hr: hsla(0, 0%, 100%, 0.2);
+	--hr: #25253a;
 
 	background-color: var(--bg);
 }
@@ -115,8 +115,7 @@ body.dark {
 	--textNormal: #fff5e0;
 	--textTitle: #fff5e0;
 	--textLink: #afd3ff;
-	--setQuote: hsla(0, 0, 100%, 0.2);
-	--hr: hsla(0, 0%, 0%, 0.2);
+	--hr: #fff5e0;
 }
 
 h1 {
@@ -143,5 +142,6 @@ h3 a {
 }
 
 hr {
-	color: var(--hr);
+	background-color: var(--hr);
+	opacity: .3;
 }
