@@ -1,13 +1,17 @@
 import Typography from "typography"
 import Wordpress2016 from "typography-theme-wordpress-2016"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
+Wordpress2016.overrideThemeStyles = () => ({
+  p: {
+  	color: `var(--textNormal)`,
+  },
+  blockquote: {
+  	color: `var(--textNormal)`,
+  },
+  hr: {
+  	color: `var(--hr)`,
+  },
+})
 
 delete Wordpress2016.googleFonts
 

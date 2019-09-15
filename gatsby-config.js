@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Blog Boi`,
+    title: `daniel.ohn`,
     author: `Daniel Ohn`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `A minimalist personal site for a boi who codes and occasionally blogs.`,
     siteUrl: `https://blog-boi.netlify.com/`,
     social: {
       twitter: ``,
@@ -17,6 +17,16 @@ module.exports = {
     `gatsby-plugin-feed`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-emotion`,
+    `gatsby-plugin-dark-mode`,
+    {	
+    	resolve: "gatsby-plugin-react-svg",
+    	options: {
+    		rule: {
+    			include: /assets/
+    		}
+    	}
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -66,11 +76,9 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/happy-face.svg`,
       },
     },
     {

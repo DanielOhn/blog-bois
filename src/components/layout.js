@@ -1,62 +1,60 @@
 import React from "react"
 import { Link } from "gatsby"
-import styled from "styled-components"
-
+import styled from "@emotion/styled"
 import { rhythm } from "../utils/typography"
 
-class Layout extends React.Component {
-  render() {
-    const { location, children } = this.props
+import Theme from "./theme"
 
-    const rootPath = `${__PATH_PREFIX__}/`
-    //const blogPath = `${__PATH_PREFIX__}/blog/`
-    // const projectPath = `${__PATH_PREFIX__}/projects/`
-    // const resumePath = `${__PATH_PREFIX__}/resume/`
-    let header
+const Layout = props => {
+  const { children, location } = props
+  const rootPath = `${__PATH_PREFIX__}/`
+  //const blogPath = `${__PATH_PREFIX__}/blog/`
+  // const projectPath = `${__PATH_PREFIX__}/projects/`
+  // const resumePath = `${__PATH_PREFIX__}/resume/`
+  let header
 
-    if (location.pathname !== rootPath) {
-      header = (
+  if (location.pathname !== rootPath) {
+    header = (
+      <div className="header">
         <h3
           style={{
-            marginBottom: rhythm(.5),
+            marginBottom: rhythm(0.5),
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
             }}
             to={`/`}
           >
             daniel.ohn
           </Link>
         </h3>
-      )
-    }
-    return (
-      <Wrapper>
-        <div
-          style={{
-            marginLeft: `auto`,
-            marginRight: `auto`,
-            maxWidth: rhythm(24),
-            padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          }}
-        >
-          <header>{header}</header>
-          <main>{children}</main>
-        </div>
-      </Wrapper>
+        <Theme />
+      </div>
     )
   }
+  return (
+    <Wrapper>
+      <div
+        style={{
+          marginLeft: `auto`,
+          marginRight: `auto`,
+          maxWidth: rhythm(24),
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        }}
+      >
+        <header>{header}</header>
+        <main className="main">{children}</main>
+      </div>
+    </Wrapper>
+  )
 }
 
-const Wrapper = styled.div`
+const Wrapper = styled("div")`
   min-height: 75vh;
   margin-top: 15%;
 `
-
-
 
 export default Layout

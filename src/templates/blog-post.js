@@ -3,21 +3,29 @@ import { Link, graphql } from "gatsby"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
+import Theme from "../components/theme"
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { previous, next } = this.props.pageContext
 
     return (
-      <div 
+      <div
+        className="blog"
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <h3><Link to="/blog">blog boi</Link></h3>
+        <div className="head">
+          <h3>
+            <Link to="/blog">blog boi</Link>
+          </h3>
+          <Theme />
+        </div>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}

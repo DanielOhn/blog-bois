@@ -17,10 +17,10 @@ class Blog extends React.Component {
         <div>
           <h2
             style={{
-              marginBottom: rhythm(.5),
+              marginBottom: rhythm(0.5),
             }}
           >
-            blogs
+            blog boi
           </h2>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
@@ -29,7 +29,7 @@ class Blog extends React.Component {
               <div key={node.fields.slug}>
                 <h3>
                   <Link
-                    style={{ boxShadow: `none`}}
+                    style={{ boxShadow: `none` }}
                     to={`/blog${node.fields.slug}`}
                   >
                     {title}
@@ -38,7 +38,7 @@ class Blog extends React.Component {
                 <small>{node.frontmatter.date}</small>
                 <p
                   style={{
-                    marginBottom: rhythm(.25),
+                    marginBottom: rhythm(0.25),
                   }}
                   dangerouslySetInnerHTML={{
                     __html: node.frontmatter.description || node.excerpt,
