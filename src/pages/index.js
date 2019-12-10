@@ -6,6 +6,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Theme from "../components/theme"
 
+import projectsData from "../data/projectsData"
+
 class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -46,9 +48,13 @@ class IndexPage extends React.Component {
                 <Link to={`/projects`}>projects</Link>
               </h3>
               <ul>
-                <li>
-                  <a href="https://poke-site.netlify.com/">Poké App</a>
-                </li>
+                {projectsData.map(val => {
+                  return (
+                    <li key={val.id}>
+                      <a href={val.site}>{val.title}</a>
+                    </li>
+                  )
+                })}
               </ul>
             </div>
           </div>
