@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    id: 3,
+    site: "https://kanye-tweet-quotes.netlify.com/",
+    title: "Kanye West Tweets",
+    date: "October 2019",
+    desc: "A website that uses a Kanye Quote API to pull a random Kanye Tweet.",
+  },
+  {
     id: 2,
     site: "https://painting-app.netlify.com/",
     title: "Painting App",
