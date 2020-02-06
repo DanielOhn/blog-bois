@@ -408,9 +408,12 @@ function check_collid(r1, r2) {
 }
 ```
 
-Now that we have the collision function implemented, we need to do the following to get our game of Pong going: 
+Now that we have the collision function implemented, we need to do the following to get our game of Pong going:
+ 
 - Ball bouncing off the Players and Walls
+
 - Player can't move past walls
+
 - Enemy can't move past walls
 
 Let's implement the collision of the ball with the player and enemy.  We'll add the following code to your `game` function:
@@ -516,7 +519,9 @@ Now if we move our player up and down we can see that it is stopped right when i
 ## Game Logic
 
 For this section, we'll be adding the following: 
+
 - Basic AI for Enemy
+
 - Reseting Ball
 
 Once we add these components, we'll be completely finished with our main logic for the game.
@@ -602,8 +607,11 @@ Great!  We mananged to get a simple game of Pong finished in PixiJS, all we need
 ## Score
 
 In this section, we will do the following:
+
 - Setting Text Style
+
 - Implementing Text
+
 - Iterating Scores
 
 In the `setup`, right above the controls for up/down let's add the text style and add basic text to the stage.  We'll need to make sure to add two variables above the `setup` function when we initialize all the other variables.
