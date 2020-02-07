@@ -79,7 +79,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         display: `minimal-ui`,
-        // edit below
+        // edit below for site icon
         icon: `content/assets/happy-face.svg`,
       },
     },
