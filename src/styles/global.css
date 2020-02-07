@@ -123,6 +123,8 @@ h1 {
 }
 
 .main p,
+ul,
+li,
 small,
 label {
 	color: var(--textNormal);
