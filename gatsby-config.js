@@ -4,9 +4,11 @@ module.exports = {
     title: `daniel.ohn`,
     author: `Daniel Ohn`,
     description: `A minimalist personal site for a boi who codes and occasionally blogs.`,
-    siteUrl: `https://blog-boi.netlify.com/`,
+    siteUrl: `https://danielohn.me/`,
     social: {
-      twitter: ``,
+      twitter: `https://twitter.com/ohndaniel_`,
+      github: `https://github.com/DanielOhn`,
+      email: `ohndaniel@gmail.com`
     },
   },
   plugins: [
