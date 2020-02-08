@@ -74,7 +74,7 @@ class Resume extends React.Component {
 						<p>
 							<b>Frameworks</b>
 						</p>
-						<p>React, Gatsby, Bulma, Bootstrap</p>
+						<p>React, Gatsby, Flask, Django, PixiJS</p>
 						<p>
 							<b>Databases</b>
 						</p>

@@ -1,5 +1,19 @@
 const projectsData = [
   {
+    id: 5,
+    site: "https://catsby.pythonanywhere.com/",
+    title: "La Baddie",
+    date: "Feburary 2020",
+    desc: "An imageboard website created using Flask and uses AWS S3 for Image Hosting."
+  },
+  {
+    id: 4, 
+    site: 'https://pong-pixijs.netlify.com/',
+    title: "Pong",
+    date: "January 2020",
+    desc: "Create a small Pong game with PixiJS."
+  },
+  {
     id: 3,
     site: "https://kanye-tweet-quotes.netlify.com/",
     title: "Kanye West Tweets",
