@@ -39,9 +39,9 @@ class Theme extends Component {
 				{({ theme, toggleTheme }) => (	
 					<div>
 						{darkTheme ? (
-							<Dark onClick={() => this.handleClick( toggleTheme, theme )} />
+							<Dark className="theme" onClick={() => this.handleClick( toggleTheme, theme )} />
 						) : (
-							<Light onClick={() => this.handleClick( toggleTheme, theme )} />
+							<Light className="theme" onClick={() => this.handleClick( toggleTheme, theme )} />
 						)}
 					</div>
 				)}

@@ -17,6 +17,7 @@ h2 {
 h3 {
 	padding: 0;
 	margin: 0;
+	padding-bottom: 8px;
 }
 
 ul {
@@ -35,7 +36,7 @@ i {
 }
 
 .list {
-	padding-top: 5%;
+	padding-top: 16px;
 }
 
 .blog-list {
@@ -65,7 +66,7 @@ i {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	height: 28px;
+	height: 36px;
 }
 
 blockquote {
@@ -76,10 +77,25 @@ blockquote {
 button {
 	background: transparent;
 	border: none;
-	height: 36px;
-	width: 36px;
 	cursor: pointer;
 }
+
+.theme button {
+	height: 36px;
+	width: 36px;
+}
+
+.social {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+}
+
+.social button {
+	height: 48px;
+	width: 48px;
+}
+
 
 svg {
 	color: var(--textNormal);

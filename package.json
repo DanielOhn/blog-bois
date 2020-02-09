@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.21",
-    "@emotion/styled": "^10.0.17",
+    "@emotion/styled": "^10.0.27",
     "@hot-loader/react-dom": "^16.10.2",
-    "babel-plugin-styled-components": "^1.10.6",
+    "babel-plugin-styled-components": "^1.10.7",
     "emotion-theming": "^10.0.19",
     "gatsby": "^2.16.5",
     "gatsby-image": "^2.2.29",
@@ -31,13 +31,13 @@
     "gatsby-remark-images": "^2.0.6",
     "gatsby-remark-responsive-iframe": "^2.2.25",
     "gatsby-remark-smartypants": "^2.1.14",
-    "gatsby-remark-vscode": "^1.2.0",
+    "gatsby-remark-vscode": "^1.4.0",
     "gatsby-source-filesystem": "^2.1.33",
     "gatsby-transformer-remark": "^2.6.30",
     "gatsby-transformer-sharp": "^2.2.23",
     "immutable": "^3.8.2",
-    "mem": ">=4.0.0",
-    "netlify-cms-app": "^2.9.7",
+    "mem": "^6.0.1",
+    "netlify-cms-app": "^2.11.14",
     "react": "^16.10.2",
     "react-helmet": "^5.2.0",
     "react-switch": "^5.0.1",
@@ -50,7 +50,7 @@
     "use-dark-mode": "^2.3.1"
   },
   "devDependencies": {
-    "prettier": "^1.17.0"
+    "prettier": "^1.19.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [

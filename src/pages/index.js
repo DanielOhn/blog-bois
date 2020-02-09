@@ -6,12 +6,16 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Theme from "../components/theme"
 
+import Twitter from "../img/twitter"
+import Github from "../img/github"
+
 import projectsData from "../data/projectsData"
 
 class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const posts = data.allMarkdownRemark.edges
+    const { social } = data.site.siteMetadata
 
     return (
       <Layout location={this.props.location}>
@@ -58,6 +62,15 @@ class IndexPage extends React.Component {
               </ul>
             </div>
           </div>
+
+          <div className="social">
+            <a href={social.twitter} target="_blank">
+              <Twitter />
+            </a>
+            <a href={social.github} target="_blank">
+              <Github />
+            </a>
+          </div>
         </div>
       </Layout>
     )
@@ -71,6 +84,11 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        social {
+          twitter
+          github
+          email
+        }
       }
     }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
