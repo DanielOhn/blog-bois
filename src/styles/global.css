@@ -75,14 +75,14 @@ blockquote {
 }
 
 button {
-	background: transparent;
-	border: none;
 	cursor: pointer;
 }
 
 .theme button {
 	height: 36px;
 	width: 36px;
+	background: transparent;
+	border: none;
 }
 
 .social {
@@ -94,12 +94,53 @@ button {
 .social button {
 	height: 48px;
 	width: 48px;
+	background: transparent;
+	border: none;
 }
-
 
 svg {
 	color: var(--textNormal);
 	fill: var(--textNormal);
+}
+
+svg:hover {
+	color: var(--textLink);
+	fill: var(--textLink);
+}
+
+.contact {
+	padding-top: 16px;
+	width: 85%;
+}
+
+.contact input, textarea {
+	width: 100%;
+	border-radius: 8px;
+
+	border: 2px solid;
+	
+	color: var(--textNormal);
+
+	background-color: var(--bg);
+	background-repeat: no-repeat;
+	padding-left: 8px;
+}
+
+.contact textarea {
+	height: 200px;
+	resize: none;
+}
+
+.contact input:focus, textarea:focus {
+	border-color: var(--textLink);
+}
+
+.contact button {
+	background: transparent;
+	border: none;
+	width: 48px;
+	height: 48px;
+	float: right;
 }
 
 @media screen and (max-width: 480px) {

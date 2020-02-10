@@ -19,7 +19,7 @@ class Projects extends React.Component {
               marginBottom: rhythm(0.5),
             }}
           >
-            projects
+            projects i made
           </h2>
           {projectsData.map(val => {
             return (
@@ -42,7 +42,7 @@ const Project = ({ site, title, date, desc }) => {
   return (
     <div>
       <h3>
-        <a target="noopener noreferrer" href={site}>
+        <a target="_blank" rel="noopener noreferrer" href={site}>
           {title}
         </a>
       </h3>

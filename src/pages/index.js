@@ -64,10 +64,10 @@ class IndexPage extends React.Component {
           </div>
 
           <div className="social">
-            <a href={social.twitter} target="_blank">
+            <a href={social.twitter} target="_blank" rel='noopener noreferrer'>
               <Twitter />
             </a>
-            <a href={social.github} target="_blank">
+            <a href={social.github} target="_blank" rel='noopener noreferrer'>
               <Github />
             </a>
           </div>

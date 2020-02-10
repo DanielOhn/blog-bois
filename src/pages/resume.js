@@ -18,7 +18,7 @@ class Resume extends React.Component {
 							marginBottom: rhythm(0.5),
 						}}
 					>
-						Resume
+						my resume and skills
 					</h2>
 					<div style={{ marginBottom: rhythm(0.2) }}>
 						<h3>Eduction</h3>
