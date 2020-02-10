@@ -23,13 +23,13 @@ class Projects extends React.Component {
           </h2>
           {projectsData.map(val => {
             return (
-                <Project
-                  key={val.id}
-                  site={val.site}
-                  title={val.title}
-                  date={val.date}
-                  desc={val.desc}
-                />
+              <Project
+                key={val.id}
+                site={val.site}
+                title={val.title}
+                date={val.date}
+                desc={val.desc}
+              />
             )
           })}
         </div>
