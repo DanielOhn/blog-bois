@@ -1,7 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
-import Bio from "../components/bio"
+import { graphql, Link } from "gatsby"
 
+import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Theme from "../components/theme"
@@ -29,8 +29,12 @@ class IndexPage extends React.Component {
             <Theme />
           </div>
           <Bio />
-          <Link to={`/resume`}>will code for food.</Link>
-
+          <p>
+            <Link to={`/resume`}>will code for food.</Link>
+          </p>
+          <p>
+            <Link to={`/contact`}>contact me.</Link>
+          </p>
           <div className="list">
             <div className="blog-list">
               <h3>
@@ -64,10 +68,10 @@ class IndexPage extends React.Component {
           </div>
 
           <div className="social">
-            <a href={social.twitter} target="_blank" rel='noopener noreferrer'>
+            <a href={social.twitter} target="_blank" rel="noopener noreferrer">
               <Twitter />
             </a>
-            <a href={social.github} target="_blank" rel='noopener noreferrer'>
+            <a href={social.github} target="_blank" rel="noopener noreferrer">
               <Github />
             </a>
           </div>
