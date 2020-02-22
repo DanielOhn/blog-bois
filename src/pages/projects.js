@@ -19,7 +19,7 @@ class Projects extends React.Component {
               marginBottom: rhythm(0.5),
             }}
           >
-            projects i made
+            personal projects
           </h2>
           {projectsData.map(val => {
             return (

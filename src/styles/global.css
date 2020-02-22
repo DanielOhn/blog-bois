@@ -24,6 +24,10 @@ ul {
 	list-style: none;
 }
 
+.blog ul {
+	margin-bottom: 8px;
+}
+
 li {
 	margin: 0;
 }
