@@ -43,7 +43,7 @@ Cmder is used whenever I want to code on Windows.  Terminal is the best command 
 ### Others
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
-  
+
 I use this browser for everything and always liked it better than Chrome.  The only time I use other browsers is when I want to check my websites and projects on them.
 
 - [Steam](https://steamcommunity.com/id/GreatxCatsby/)
@@ -61,6 +61,8 @@ What I mainly use to talk to other devs and my friends.
 - White Board
   
 Not actual software.  I just use paper and a white board for most of my designs and keep track of stuff I wanna complete in each day.
+
+---
 
 ## Hardware
 
