@@ -11,7 +11,7 @@ const Layout = props => {
   //const blogPath = `${__PATH_PREFIX__}/blog/`
   // const projectPath = `${__PATH_PREFIX__}/projects/`
   // const resumePath = `${__PATH_PREFIX__}/resume/`
-  let header
+  let header, Wrapper
 
   if (location.pathname !== rootPath) {
     header = (
@@ -34,6 +34,15 @@ const Layout = props => {
         <Theme />
       </div>
     )
+
+    Wrapper = styled("div")`
+      min-height: 75vh;
+    `
+  } else {
+    Wrapper = styled("div")`
+      min-height: 60vh;
+      margin-top: 15%;
+    `
   }
   return (
     <Wrapper>
@@ -51,10 +60,5 @@ const Layout = props => {
     </Wrapper>
   )
 }
-
-const Wrapper = styled("div")`
-  min-height: 75vh;
-  margin-top: 15%;
-`
 
 export default Layout
