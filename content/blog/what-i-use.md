@@ -46,7 +46,7 @@ Cmder is used whenever I want to code on Windows.  Terminal is the best command 
 
 I use this browser for everything and always liked it better than Chrome.  The only time I use other browsers is when I want to check my websites and projects on them.
 
-- __[Steam](https://steamcommunity.com/id/GreatxCatsby/)__
+- __[Steam](https://store.steampowered.com/)__
   
 I hardly play games anymore, but when I do I like to look at my huge backlog of games on steam I'll never play and get depressed.
 
@@ -54,7 +54,7 @@ I hardly play games anymore, but when I do I like to look at my huge backlog of 
   
 I use this for all my music needs and lately been getting into podcasts so I've been using it for that as well.
 
-- __[Discord](https://discordapp.com/) (Nutsby#3777)__
+- __[Discord](https://discordapp.com/) (Catsby#3777)__
 
 What I mainly use to talk to other devs and my friends.
 
