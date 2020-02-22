@@ -16,11 +16,11 @@ Apparently, it's popular among Dev Bloggers to make a blog about what software a
 
 - [Ubuntu](https://ubuntu.com/)
     
-This is the main OS I use to do a majority of my web development, and coding.  It's pretty nice, ocassionally it gives me problems which I have to spend half a day learning how to fix.
+This is the main OS I use to do a majority of my web development, and coding.  It's pretty nice, occasionally it gives me problems which I have to spend half a day learning how to fix.
 
 - [Windows 10](https://www.microsoft.com/en-us/windows/get-windows-10)
 
-I'm dualbooting with Windows being the main OS on my laptop.  It's nice since I use it to run most of games and streams.  I occasionally use it for development, but it's pretty lackluster compared to Ubuntu.
+I'm dual booting with Windows being the main OS on my laptop.  It's nice since I use it to run most of games and streams.  I occasionally use it for development, but it's pretty lackluster compared to Ubuntu.
 
 ---
 
@@ -70,7 +70,7 @@ I picked up this laptop for pretty reasonable price after my desktop went out.  
 
 - [Logitech G230 Wired Headset](https://www.amazon.com/Logitech-Stereo-Gaming-Headset-Cable/dp/B00BFOEY4I/ref=pd_sbs_147_t_0/143-2264408-3556755?_encoding=UTF8&pd_rd_i=B00BFOEY4I&pd_rd_r=7193883d-6b56-4a94-992f-224c7711d71c&pd_rd_w=zKFp2&pd_rd_wg=g2bHD&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=828EKYG3GMHP5XDY1FS5&psc=1&refRID=828EKYG3GMHP5XDY1FS5)
 
-Picked up this headset a few years back for $40 bucks.  Been using it daily whenever I'm on the computer.  It has great sound quaility and a good mic.  My main issue with it is that the plastic holding the sides of the headset is cheap and breaks easily.
+Picked up this headset a few years back for $40 bucks.  Been using it daily whenever I'm on the computer.  It has great sound quality and a good mic.  My main issue with it is that the plastic holding the sides of the headset is cheap and breaks easily.
 
 - [Onn Optical Mouse](https://www.walmart.com/ip/Onn-Standard-3D-Optical-Mouse-With-Scroll-Wheel-Black/16794997)
 
