@@ -6,7 +6,7 @@ description: >-
   The software and hardware that this poor boi uses on the daily, monthly, and
   yearly.
 ---
-# What I Use
+# [/Uses](https://uses.tech/)
 
 Apparently, it's popular among Dev Bloggers to make a blog about what software and hardware they use, since I'm trying to reach my quota of two whole blogs a month I'll do one.  Even though mine won't be as lucrative or flex about my dank setup as the others it'll show what a poor man uses to make websites.
 
