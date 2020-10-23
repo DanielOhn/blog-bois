@@ -32,7 +32,7 @@ class IndexPage extends React.Component {
           </div>
           <Bio />
 
-          <p>contact me @ ohndaniel@gmail.com or on twitter.</p>
+          <p>contact me: ohndaniel@gmail.com or on twitter.</p>
           <p>
             <a href={Resume} rel="noopener noreferrer" target="_blank">
               will code for food.
