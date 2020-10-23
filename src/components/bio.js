@@ -16,7 +16,7 @@ function Bio() {
       render={data => {
         return (
           <Container>
-            <p>software engineer. I make websites, blogs, and games.</p>
+            <p>software engineer. I create websites, make blogs, and play d&d.</p>
           </Container>
         )
       }}
