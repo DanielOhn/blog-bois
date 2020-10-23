@@ -11,6 +11,8 @@ import Github from "../img/github"
 
 import projectsData from "../data/projectsData"
 
+import Resume from "../data/Resume_DanielOhn.pdf"
+
 class IndexPage extends React.Component {
   render() {
     const { data } = this.props
@@ -29,11 +31,12 @@ class IndexPage extends React.Component {
             <Theme />
           </div>
           <Bio />
+
+          <p>contact me: ohndaniel@gmail.com or on twitter.</p>
           <p>
-            <Link to={`/resume`}>will code for food.</Link>
-          </p>
-          <p>
-            <Link to={`/contact`}>contact me.</Link>
+            <a href={Resume} rel="noopener noreferrer" target="_blank">
+              will code for food.
+            </a>
           </p>
           <div className="list">
             <div className="blog-list">
@@ -98,7 +101,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 5
-      ) {
+    ) {
       edges {
         node {
           excerpt
