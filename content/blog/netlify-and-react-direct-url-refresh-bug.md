@@ -1,5 +1,5 @@
 ---
-path: netlify-and
+path: netlify-and-react-direct-url-bug
 date: 2020-11-12T00:23:29.154Z
 title: "Netlify and React: Direct URL/Refresh Bug"
 description: Solution on fixing a bug when hosting a React App on Netlify with a
